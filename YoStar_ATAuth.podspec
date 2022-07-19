@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   s.platform     = :ios, '9.0'
 
   # s.source_files = 'YoStar_ATAuth/Classes/**/*'
-  s.vendored_frameworks = 'YoStar_ATAuth/**/*.framework'
+  s.vendored_frameworks = 'YoStar_ATAuth/YoCoreLibrary/*.framework'
 
   s.resource_bundles = {
     'CoreBundle' => ['YoStar_ATAuth/YoResources/*.bundle']
