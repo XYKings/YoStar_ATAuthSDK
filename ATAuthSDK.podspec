@@ -28,7 +28,7 @@ TODO: Add long description of the pod here.
   LICENSE
   }
   s.author           = { 'Yx' => 'ye.xue@yo-star.com' }
-  s.source           = { :git => 'https://github.com/xueye08@foxmail.com/ATAuthSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/XYKings/YoStar_ATAuthSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
