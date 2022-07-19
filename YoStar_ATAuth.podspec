@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint ATAuthSDK.podspec' to ensure this is a
+# Be sure to run `pod lib lint YoStar_ATAuth.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ATAuthSDK'
+  s.name             = 'YoStar_ATAuth'
   s.version          = '0.0.1'
-  s.summary          = 'A short description of ATAuthSDK.'
+  s.summary          = 'A short description of YoStar_ATAuth.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -35,11 +35,11 @@ TODO: Add long description of the pod here.
 
   s.platform     = :ios, '9.0'
 
-  # s.source_files = 'ATAuthSDK/Classes/**/*'
-  s.vendored_frameworks = 'ATAuthSDK/**/*.framework'
+  # s.source_files = 'YoStar_ATAuth/Classes/**/*'
+  s.vendored_frameworks = 'YoStar_ATAuth/**/*.framework'
 
   s.resource_bundles = {
-    'CoreBundle' => ['ATAuthSDK/YoResources/*.bundle']
+    'CoreBundle' => ['YoStar_ATAuth/YoResources/*.bundle']
   }
 
   s.xcconfig = { 'OTHER_LDFLAGS' => ['-ObjC', '-all_load'] }
