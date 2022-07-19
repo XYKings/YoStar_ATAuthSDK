@@ -1,4 +1,4 @@
-# ATAuthSDK
+# YoStar_ATAuth
 
 [![CI Status](https://img.shields.io/travis/xueye08@foxmail.com/ATAuthSDK.svg?style=flat)](https://travis-ci.org/xueye08@foxmail.com/ATAuthSDK)
 [![Version](https://img.shields.io/cocoapods/v/ATAuthSDK.svg?style=flat)](https://cocoapods.org/pods/ATAuthSDK)
@@ -17,13 +17,13 @@ ATAuthSDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'ATAuthSDK'
+pod 'YoStar_ATAuth'
 ```
 
 ## Author
 
-xueye08@foxmail.com, ye.xue@yo-star.com
+Yx, ye.xue@yo-star.com
 
 ## License
 
-ATAuthSDK is available under the MIT license. See the LICENSE file for more info.
+YoStar_ATAuth is available under the MIT license. See the LICENSE file for more info.
